@@ -12,10 +12,10 @@ class CtoFTester{
     print(celsiusToFahrenheit(-22)); //-7.6
     print(celsiusToFahrenheit(-2.6)); //27.32
 
-    print(fahrenheitToCelsius(5))); //-15
-    print(fahrenheitToCelsius(32))); //0
-    print(fahrenheitToCelsius(54.2))); //12.3333..
-    print(fahrenheitToCelsius(-1))); //-18.3333..
-    print(fahrenheitToCelsius(-150.6))); //-101.4444..
+    print(fahrenheitToCelsius(5)); //-15
+    print(fahrenheitToCelsius(32)); //0
+    print(fahrenheitToCelsius(54.2)); //12.3333..
+    print(fahrenheitToCelsius(-1)); //-18.3333..
+    print(fahrenheitToCelsius(-150.6)); //-101.4444..
   }
 }
